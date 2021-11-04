@@ -1,0 +1,72 @@
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\VueTS-Backend API.exe
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\VueTS-Backend API.deps.json
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\VueTS-Backend API.runtimeconfig.json
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\VueTS-Backend API.runtimeconfig.dev.json
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\VueTS-Backend API.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\VueTS-Backend API.pdb
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.csproj.AssemblyReference.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.AssemblyInfoInputs.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.AssemblyInfo.cs
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.csproj.CoreCompileInputs.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\staticwebassets\VueTS-Backend API.StaticWebAssets.Manifest.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\staticwebassets\VueTS-Backend API.StaticWebAssets.xml
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\VueTS-Backend API.styles.css
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.RazorTargetAssemblyInfo.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.pdb
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.genruntimeconfig.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\VueTS-Backend\obj\Debug\netcoreapp3.1\VueTS-Backend API.csproj.CopyComplete

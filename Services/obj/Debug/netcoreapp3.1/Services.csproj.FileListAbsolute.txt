@@ -1,0 +1,13 @@
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\bin\Debug\netcoreapp3.1\Business Logic.deps.json
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\bin\Debug\netcoreapp3.1\Business Logic.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\bin\Debug\netcoreapp3.1\Business Logic.pdb
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\obj\Debug\netcoreapp3.1\Business Logic.csproj.AssemblyReference.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\obj\Debug\netcoreapp3.1\Business Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\obj\Debug\netcoreapp3.1\Business Logic.AssemblyInfoInputs.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\obj\Debug\netcoreapp3.1\Business Logic.AssemblyInfo.cs
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\obj\Debug\netcoreapp3.1\Business Logic.csproj.CoreCompileInputs.cache
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\obj\Debug\netcoreapp3.1\Business Logic.dll
+C:\Users\fermin.amador\source\repos\VueTS-Backend\Business Logic\obj\Debug\netcoreapp3.1\Business Logic.pdb
