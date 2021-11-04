@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VueTS-Backend API", "VueTS-Backend\VueTS-Backend API.csproj", "{FE9E88B8-A01F-454B-AACC-AFFE07C2A720}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryApp-Backend API", "VueTS-Backend\InventoryApp-Backend API.csproj", "{FE9E88B8-A01F-454B-AACC-AFFE07C2A720}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{023FDB72-320B-4219-BC31-D0D202B6AD9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{023FDB72-320B-4219-BC31-D0D202B6AD9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Logic", "Business Logic\Business Logic.csproj", "{5D0A9F7E-468D-4805-89DE-F0795FFE4460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business Logic", "Business Logic\Business Logic.csproj", "{5D0A9F7E-468D-4805-89DE-F0795FFE4460}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{CAB06EC3-06F7-4C1B-9E3A-5C41C91AED17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{CAB06EC3-06F7-4C1B-9E3A-5C41C91AED17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
