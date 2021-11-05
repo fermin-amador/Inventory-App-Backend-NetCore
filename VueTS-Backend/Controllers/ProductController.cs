@@ -24,7 +24,7 @@ namespace VueTS_Backend.Controllers
         [HttpGet("/api/product")]
         public ActionResult GetProduct()
         {
-            _logger.LogInformation("Getting all products HEY HEY");
+            _logger.LogInformation("Getting all products HEY HEY ALGO LLEGO AQUI");
             var products = _productService.GetAllProducts();
             return Ok(products);
         }
