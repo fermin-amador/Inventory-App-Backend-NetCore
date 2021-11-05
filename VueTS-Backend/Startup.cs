@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Services.Customers;
 using Services.Products;
 using System;
 using System.Collections.Generic;
@@ -33,6 +34,7 @@ namespace VueTS_Backend
 
 
             services.AddTransient<IProductService, ProductService>();
+            services.AddTransient<ICustomerService, CustomerService>();
             //Add Cors
             services.AddCors(cors => cors.AddPolicy("Cors", opt => opt.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin()));
         }
